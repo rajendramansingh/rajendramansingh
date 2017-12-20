@@ -1,2 +1,4 @@
 name: Rajendra Man Singh, Author
 markdown: kramdown
+gems: 
+- jekyll-sitemap
